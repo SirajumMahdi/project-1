@@ -259,7 +259,7 @@ require get_template_directory() . '/inc/customizer.php';
  */
 require get_template_directory() . '/inc/tukione-comments.php';
 /**
- * Plugin-installer.
+ * use Plugin-installer.
  */
 require get_template_directory() . '/inc/Plugin-installer.php';
 
